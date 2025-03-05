@@ -1,6 +1,6 @@
 {
   "name": "@open-amt-cloud-toolkit/ui-toolkit-react",
-  "version": "3.2.8",
+  "version": "3.2.9",
   "description": "React UI controls for Intel AMT features",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,9 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/open-amt-cloud-toolkit/ui-toolkit-react/issues"
+    "url": "https://github.com/device-management-toolkit/ui-toolkit-react/issues"
   },
-  "homepage": "https://github.com/open-amt-cloud-toolkit/ui-toolkit-react#readme",
+  "homepage": "https://github.com/device-management-toolkit/ui-toolkit-react#readme",
   "types": "index.d.ts",
   "peerDependencies": {
     "react": "^18.2.0",
@@ -29,9 +29,9 @@
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
-    "@open-amt-cloud-toolkit/ui-toolkit": "^3.2.8",
+    "@open-amt-cloud-toolkit/ui-toolkit": "^3.2.9",
     "@xterm/xterm": "^5.5.0",
-    "i18next": "^23.2.1",
+    "i18next": "^24.0.5",
     "i18next-browser-languagedetector": "^8.0.0",
     "md5": "^2.2.1",
     "moment": "^2.29.4",
@@ -77,7 +77,7 @@
     "ts-loader": "^9.4.1",
     "typescript": "^5.0.4",
     "webpack": "^5.75.0",
-    "webpack-cli": "^5.0.1",
+    "webpack-cli": "^6.0.1",
     "webpack-dev-server": "^5.0.1",
     "webpack-node-externals": "^3.0.0"
   }
